@@ -1,0 +1,11 @@
+.pie-bg-cont {
+  background-color: #1c1c2b;
+  padding: 10px;
+  border-radius: 8px;
+}
+.gender-head {
+  font-family: Roboto;
+  font-size: 28px;
+  color: #94a3b8;
+  margin-bottom: 20px;
+}
